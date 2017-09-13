@@ -1,4 +1,4 @@
-#Layouts-Android
+#Layouts-Android <b><br>
 Layouts   inclass1 <br>
 purpose - get familiar with the different layout controls. <br>
 Display them in the layout windows (no need to bring up the emulator or run it in the tablet) <br>
